@@ -21,9 +21,9 @@ A modern and responsive Weather Application built using **HTML, CSS, and JavaScr
 
 ## 📸 Preview
 
-<img width="800" alt="Weather App Preview" src="https://via.placeholder.com/800x400?text=Weather+App+Screenshot">
+<img width="800" alt="Weather App Preview" src="./preview.png">
 
-> Replace the image above with a screenshot of your project.
+
 
 ## 📂 Project Structure
 
